@@ -14,3 +14,6 @@
   rake page name="about.md" or rake page name="pages/about.md" or rake page name="pages/about"
 
 
+# Website
+
+  [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)

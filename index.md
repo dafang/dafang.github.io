@@ -1,8 +1,7 @@
 ---
 layout: page
-title : Say Hello to the WORLD
-header : 大房小站 - 向世界说Hello
-group: navigation
+title: Say hello to the WORLD
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
